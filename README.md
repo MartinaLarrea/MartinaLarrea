@@ -1,7 +1,7 @@
 # ¡Hola, soy Martina Larrea! 👋
 
 ## Acerca de mí
-Soy de Argentina y actualmente trabajo en Datamates, una consultora de IT. Me apasiona el mundo de la tecnología y tengo experiencia utilizando Python, Google Cloud Platform (GCP), Streamlit y Power BI.
+Soy de Argentina y actualmente trabajo en Datamates, una consultora de IT. Me apasiona el mundo de la tecnología y tengo experiencia utilizando Python, Google Cloud Platform (GCP), SQL, Streamlit y Power BI.
 
 ## Intereses
 Estoy interesada en aprender y aplicar nuevas tecnologías para mejorar mis habilidades en el campo de la ciencia de datos. También me interesa colaborar en proyectos emocionantes que desafíen mis conocimientos y me permitan crecer profesionalmente.
